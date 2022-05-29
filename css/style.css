@@ -561,3 +561,16 @@ body {
 .reviews__author-accent {
     color: var(--accent-color);
 }
+@media screen and (max-width: 1280px) {
+    .reviews {
+        padding: 100px 15px;
+    }
+    .reviews__grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+    @media screen and (max-width: 768px) {
+        .reviews__grid {
+            grid-template-columns: repeat(1, 1fr);
+        }
+}
