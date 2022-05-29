@@ -548,8 +548,8 @@ body {
 }
 .reviews__card {
     background-color: #f7f7f7;
-    padding: 30px;
-    margin-bottom: 30px;
+    padding: 28px 30px;
+    margin-bottom: 35px;
 }
 .reviews__quotes {
     font-size: 96px;
